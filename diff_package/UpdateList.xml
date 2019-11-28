@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<aaaa>
+<program></program>
+<version>2.1.0</version>
+<update_time></update_time>
+<pre_command></pre_command>
+<update_files>
+    <file type=1 path="Test.File1" hash=""/>
+    <file type=2 path="Test.File1" />
+    <file type=2 path="Test.File1" />
+</update_files>
+<add_files>
+    <file type=1 path="Test.File1" hash=""/>
+    <file type=2 path="Test.File1" />
+    <file type=2 path="Test.File1" />
+</add_files>
+<delete_files>
+    <file type=1 path="Test.File1" hash=""/>
+    <file type=2 path="Test.File1" />
+    <file type=2 path="Test.File1" />
+</delete_files>
+</aaaa>
